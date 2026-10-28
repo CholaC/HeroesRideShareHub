@@ -1,0 +1,6 @@
+{
+  "name": "Heroes Express | Inter-Provincial Private Ride Sharing",
+  "description": "Schedule and book comfortable private vehicle rides departing from National Heroes Stadium in Lusaka to the Copperbelt (Ndola, Kitwe, Chingola) and all Zambian provinces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
